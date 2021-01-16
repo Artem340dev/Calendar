@@ -1,0 +1,8 @@
+name: Calendar
+main: calendar.main.SpigotPlugin
+version: 0.1
+commands:
+  cal:
+    usage: /cal
+  calevent:
+    usage: /calevent <day> <month> <year>
